@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <head>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, inicial-scale=1">
+  <title>Menu Card</title>
+<body>
+<h1>Our menu</h1>
+
+<div class="row">
+  <div class="col-lg-3 col-md-6 col-sm-12">
+  <section>
+  <h2 id="titulo1">Chicken</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.</p>
+  </section>
+  </div>
+
+  <div class="col-lg-3 col-md-6 col-sm-12">
+  <section>
+  <h2 id="titulo2">Beef</h3>
+      <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.</p>
+  </section>
+  </div>
+
+  <div class="col-lg-3 col-md-12 col-sm-12">
+  <section>
+  <h2 id="titulo3">Sushi</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.</p>
+  </section>
+  </div>
+  
+</div>
+
+</body>
+</html>
